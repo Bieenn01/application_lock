@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Add your custom color for the PinLockView -->
+    <color name="pin_lock_view_color">#7A7A7A</color>
+</resources>
